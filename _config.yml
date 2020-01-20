@@ -14,13 +14,13 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Satyasheel
-tagline: Machine Learning Engineer
+tagline: Data Engineer | MLOps | GCP 
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: satyasheel@ymail.com
 # phone: (+91) 8130353677
-website: mlgruby.github.io #do not add http://
+website: satyasheel.me #do not add http://
 github: mlgruby
 twitter: '@s6012'
 # stackoverflow: '1353861'
